@@ -14,10 +14,11 @@
         <!-- <img src="./assets/icon.png" style="width:200px;" alt="Logo"/> -->
     </p>
   <h1>Obfuscator</h>
-  <h3>A code Obfuscator made in python (3.9.7).<br>
+  <h3>A code Obfuscator made in python (3.9.7).</h3>
 </div>
 
 <div align="center">
   <h1>How do I use it</h>
-  <h3>Usage: <code>obfuscator.py [-file/-folder] [path]</code>
+  <h3>Usage: <code>obfuscator.py [-file/-folder] [path]</code><br>
+  It returns the obfuscated code in a obf folder</h3>
 </div>
