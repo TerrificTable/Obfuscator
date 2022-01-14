@@ -1,0 +1,1 @@
+import codecs; exec(codecs.decode(b"cHJpbnQoIkhlbGxvIikK", 'base64').decode('utf-8'))
